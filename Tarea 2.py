@@ -3,5 +3,7 @@ numero = input("Dime un numero: ")
 numero=int(numero)
 for i in range(0,11):
     resultado = numero*i
-    print(f"{numero} * {i} = {resultado}")
-
+    print(f"{numero} * {i} = {resultado)
+          
+quiero pedirle al usuario
+print(numero)

@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+*.bin
+AppData/
+*.log
+*.tmp
+*.db
+*.json
