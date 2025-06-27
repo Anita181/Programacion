@@ -1,5 +1,8 @@
 # 🐍 Ejercicios de Programación en Python
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 Este repositorio contiene mis primeros ejercicios prácticos en Python como parte de mi formación autodidacta.  
 Aquí trabajo lógica básica, manejo de texto y automatización simple para resolver problemas reales paso a paso.
 
